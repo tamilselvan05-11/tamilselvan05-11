@@ -53,7 +53,7 @@
 ## 🏅 Certifications
 
 - 🥇 **MongoDB Associate Developer**
-- 🎖️ **Design & Implementation of Human-Computer Interfaces** – *NPTEL*
+- 🎖️ **Large Language Models** – *NPTEL*
 
 ---
 
